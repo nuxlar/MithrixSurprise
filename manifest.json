@@ -1,0 +1,10 @@
+﻿{
+	"name": "MithrixSurprise",
+	"version_number": "1.0.1",
+	"website_url": "",
+	"description": "Anytime you purchase anything there's a small chance you'll get a visitor.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
